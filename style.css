@@ -71,5 +71,8 @@ section h2:before{
     height: 100%;
 }
 .hidden {
-    display: none;
+    /* display: none; */
+    visibility : hidden;
+    position: relative;
+    background-color: #0097eb;
 }
